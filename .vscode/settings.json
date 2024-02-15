@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
-        "DOCKERHUB"
+        "DOCKERHUB",
+        "Psycopg"
     ],
     "editor.letterSpacing": 1.2,
     "editor.fontFamily": "Arial, 'Arial'"
